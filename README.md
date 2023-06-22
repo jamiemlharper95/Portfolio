@@ -1,5 +1,5 @@
 # Portfolio
 
-<strong>Development Portfolio Showcase<strong>
+# Development Portfolio Showcase
 
 More information and details arer coming soon!
